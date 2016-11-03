@@ -9,6 +9,6 @@ public class AppTest {
 	
 	@Test
 	public void test(){
-		System.out.println("test...");//Test EGit
+		System.out.println("test...");//Test TeamCity
 	}
 }
