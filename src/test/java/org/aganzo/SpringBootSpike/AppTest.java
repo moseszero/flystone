@@ -9,6 +9,6 @@ public class AppTest {
 	
 	@Test
 	public void test(){
-		System.out.println("test...");//Test TeamCity
+		System.out.println("test...");//Test TeamCity Remote Run Commit if test pass
 	}
 }
