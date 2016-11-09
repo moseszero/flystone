@@ -4,7 +4,7 @@
 
   <groupId>org.aganzo</groupId>
   <artifactId>flystone</artifactId>
-  <version>${build.number}</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>flystone</name>
